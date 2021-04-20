@@ -26,12 +26,5 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
-table {
-   display: table !important;
-        border-collapse: separate !important;
-        box-sizing: border-box !important;
-        text-indent: initial !important;
-        border-spacing: 2px !important;
-        border-color: grey !important;
-}
+
 </style>
